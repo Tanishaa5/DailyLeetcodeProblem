@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
