@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
