@@ -1,27 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int n=nums.length;
-        boolean found;
-        for(int i=0;i<=n;i++){
-            found=false;
-            for(int j=0;j<n;j++){
-                if(nums[j]==i){
-                    found=true;
-                    break;
+        int actualsum=n*(n+1)/2;
+        int sum=0;
+        for(int i=0;i<n;i++){
+            sum=sum+nums[i];
 
-                }
-            }
-            if(found==false){
-                return i;
-            }
-
-
-
-            
-            
 
         }
-        return -1;
+        return actualsum-sum;
         
     }
 }
