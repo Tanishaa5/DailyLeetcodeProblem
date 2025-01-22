@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1876-map-of-highest-peak](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2145-grid-game) |
