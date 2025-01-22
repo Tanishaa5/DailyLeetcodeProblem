@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2145-grid-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
