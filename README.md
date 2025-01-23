@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 ## Prefix Sum
