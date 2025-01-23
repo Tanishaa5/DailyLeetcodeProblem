@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0407-trapping-rain-water-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
