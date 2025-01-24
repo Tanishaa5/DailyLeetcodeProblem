@@ -9,6 +9,7 @@ class Solution {
                 if(((i==0) || (arr[i-1]==0)) && ((i==l-1) || (arr[i+1]==0))){
                     arr[i]=1;
                     n--;
+                    i++;//kyunki just next ko check krne ka koi matlab nhi h
                     if(n==0){
                         return true;
                     }
