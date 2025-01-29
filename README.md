@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0605-can-place-flowers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0605-can-place-flowers) |
 ## Stack
 |  |
