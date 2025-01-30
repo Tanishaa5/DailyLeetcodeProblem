@@ -1,22 +1,26 @@
 class Solution {
     public String reverseWords(String s) {
-        // Trim leading and trailing spaces and then split by one or more spaces
-        s = s.trim();
-
-        String[] words = s.split("\\s+");
-        int left = 0;
-        int right = words.length - 1;
-
-        // Reverse the words array
-        while (left < right) {
-            String temp = words[left];
-            words[left] = words[right];
-            words[right] = temp;
-            left++;
-            right--;
+        s=s.trim();
+        String []arr=s.split("\\s+");
+        int start=0;
+        int n=arr.length;
+        int end=n-1;
+        
+        while(start<end){
+            String temp=arr[start];
+            arr[start]=arr[end];
+            arr[end]=temp;
+            start++;
+            end--;
         }
+        return String.join(" ",arr);//This line joins the elements of the words array into a single string, with a space (" ") separating each word.
 
-        // Join the words with a single space between them and return the result
-        return String.join(" ", words);
-    }    
+        
+
+
+        
+        
+        
+        
+    }
 }
