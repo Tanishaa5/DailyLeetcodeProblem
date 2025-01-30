@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0820-find-eventual-safe-states) |
@@ -186,15 +187,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
