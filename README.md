@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0684-redundant-connection) |
@@ -200,12 +201,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
