@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1894-merge-strings-alternately) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [1396-count-servers-that-communicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1396-count-servers-that-communicate) |
 ## Depth-First Search
 |  |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
