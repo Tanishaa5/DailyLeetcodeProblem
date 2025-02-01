@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1894-merge-strings-alternately) |
