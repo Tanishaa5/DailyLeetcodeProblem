@@ -27,8 +27,13 @@ class Solution {
             List <Integer> level=new ArrayList<>();
             for(int i=0;i<levelsize;i++){
                 TreeNode node=queue.poll();
+                
+                // if (i == levelsize-1) { //last node
+                //                        //(i==0)// First node of this level (leftmost)
+                //     level.add(node.val);
+                // }
 
-                level.add(node.val);
+                 level.add(node.val);
 
                 if(node.left!=null){
                     queue.add(node.left);//adding left children
