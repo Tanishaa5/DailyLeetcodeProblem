@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2470-removing-stars-from-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [1396-count-servers-that-communicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Depth-First Search
 |  |
 | ------- |
