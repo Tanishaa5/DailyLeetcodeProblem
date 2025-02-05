@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0053-maximum-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0605-can-place-flowers) |
