@@ -18,7 +18,10 @@ class Solution {
                 } else {
                     start = mid + 1; // Target is in the right half
                 }
-            } else { // Right half is sorted
+            }
+            
+            
+             else { // Right half is sorted
                 if (arr[mid] < target && target <= arr[end]) {
                     start = mid + 1; // Target is in the right half
                 } else {
