@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1396-count-servers-that-communicate) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
