@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2434-design-a-number-container-system) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0349-intersection-of-two-arrays) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -312,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2434-design-a-number-container-system) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
