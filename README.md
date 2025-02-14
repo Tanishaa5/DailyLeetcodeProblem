@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1876-map-of-highest-peak](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1876-map-of-highest-peak) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2145-grid-game) |
 ## Backtracking
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
