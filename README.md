@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0407-trapping-rain-water-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0792-binary-search) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
