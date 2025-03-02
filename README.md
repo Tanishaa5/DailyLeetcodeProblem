@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0969-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -349,5 +351,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
