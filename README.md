@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
