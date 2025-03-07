@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2434-design-a-number-container-system) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/3227-find-missing-and-repeated-values) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0219-contains-duplicate-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search Tree
 |  |
 | ------- |
