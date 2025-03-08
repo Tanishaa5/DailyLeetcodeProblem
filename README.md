@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1894-merge-strings-alternately) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1078-remove-outermost-parentheses) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/3447-clear-digits) |
 ## Tree
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1477-product-of-the-last-k-numbers) |
+## Linked List
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
