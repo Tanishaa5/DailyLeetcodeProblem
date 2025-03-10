@@ -5,12 +5,14 @@ class Solution {
         int r=0;
         int maxl=0;
         
+    //we are storing the index of the characters in the map
 
 
         HashMap <Character,Integer> map=new HashMap<>();
         while(r<n){
             if(map.containsKey(s.charAt(r))){
-                l=Math.max(l,map.get(s.charAt(r))+1);
+                l=Math.max(l,map.get(s.charAt(r))+1);//we have to remove till that index hence 
+                //we are getting the index
 
            
 
