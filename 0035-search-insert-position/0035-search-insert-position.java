@@ -1,5 +1,6 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
+        //lower bound
         int start=0;
         int end=nums.length-1;
         while(start<=end){
