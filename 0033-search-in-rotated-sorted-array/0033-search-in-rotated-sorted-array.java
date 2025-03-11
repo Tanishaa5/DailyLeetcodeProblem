@@ -13,7 +13,7 @@ class Solution {
 
             // Check which half is sorted
             if (arr[start] <= arr[mid]) { // Left half is sorted
-                if (arr[start] <= target && target < arr[mid]) {
+                if (arr[start] <= target && target <= arr[mid]) {
                     end = mid - 1; // Target is in the left half
                 } else {
                     start = mid + 1; // Target is in the right half
