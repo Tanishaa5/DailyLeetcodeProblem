@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0792-binary-search) |
 ## Sorting
@@ -381,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
