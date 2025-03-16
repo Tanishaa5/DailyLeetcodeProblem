@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0854-making-a-large-island) |
+| [0907-koko-eating-bananas](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
