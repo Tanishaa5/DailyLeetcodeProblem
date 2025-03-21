@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1646-kth-missing-positive-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1646-kth-missing-positive-number) |
 | [1876-map-of-highest-peak](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2145-grid-game) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
