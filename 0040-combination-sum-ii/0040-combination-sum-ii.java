@@ -29,7 +29,7 @@ class Solution {
         //explore different combination
         current.remove(current.size()-1);
         }
-        // Skip duplicates
+        // Skip duplicates //aage wale element k liye check kar raha hai
         while (i + 1 < candidates.length && candidates[i] == candidates[i + 1]) {
             i++;
         }
