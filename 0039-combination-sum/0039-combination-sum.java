@@ -26,7 +26,7 @@ class Solution {
         findcomb(candidates,target-candidates[i],i,result,current);
         //wapas ayega jab 
         //explore different combination
-        current.remove(current.size()-1);
+        current.remove(current.size()-1);//ye andar isliye hai kyunki hume pick wala element ko hi remove karege n
         }
        
         findcomb(candidates,target,i+1,result,current);
