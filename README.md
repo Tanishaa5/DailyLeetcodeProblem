@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0389-find-the-difference) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0216-combination-sum-iii) |
 ## Divide and Conquer
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
