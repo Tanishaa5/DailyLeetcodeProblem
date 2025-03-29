@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0136-single-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0387-first-unique-character-in-a-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/1396-count-servers-that-communicate) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0216-combination-sum-iii) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0101-symmetric-tree) |
