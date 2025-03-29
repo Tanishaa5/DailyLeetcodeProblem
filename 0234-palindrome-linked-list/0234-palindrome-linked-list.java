@@ -20,7 +20,7 @@ class Solution {
 
         //compare the reverse list with first half
         ListNode temp=head;
-        while(temp.next!=null){//kyuki end tak jana hi h
+        while(reverse!=null){//kyuki end tak jana hi h
             if(reverse.val!=temp.val){
                 return false;
 
