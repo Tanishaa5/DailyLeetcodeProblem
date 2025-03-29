@@ -32,16 +32,16 @@ class Solution {
         }
         return true;
         }
-        public ListNode reverseSecond(ListNode slow){
-            if(slow==null || slow.next==null){
-                return slow;
-            }
-            ListNode reverselist=reverseSecond(slow.next);
-            slow.next.next=slow;
-            slow.next=null;
-
-            return reverselist;
+         public ListNode reverseSecond(ListNode slow) {
+        ListNode prev = null, curr = slow;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
+        return prev;
+    }
 
 
 }
