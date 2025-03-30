@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0234-palindrome-linked-list) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0217-contains-duplicate) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0328-odd-even-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -437,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0374-guess-number-higher-or-lower) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
