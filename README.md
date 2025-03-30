@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/0328-odd-even-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tanishaa5/DailyLeetcodeProblem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Interactive
 |  |
